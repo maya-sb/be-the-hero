@@ -13,3 +13,5 @@
 <p align="center">
   <img src="https://imgur.com/j3S6gdZ.png">
 </p>
+
+*The Omnistack is organized and given by @Rocketseat.*
