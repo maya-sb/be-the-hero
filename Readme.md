@@ -8,6 +8,7 @@
 
 * Node.js
 * React
+* Express
 * React Native
 * Expo
 <p align="center">
