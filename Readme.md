@@ -2,7 +2,7 @@
   <img src="https://imgur.com/1Jcnis6.png">
 </p>
 
-### Be The Hero is a project that allows to connect NGOs to people willing to contribute.
+### Be The Hero is an AWESOME project that allows to connect NGOs to people willing to contribute.
 
 ### Technologies
 
