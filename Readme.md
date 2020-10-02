@@ -16,3 +16,8 @@
 </p>
 
 *The Omnistack is organized and given by @Rocketseat.*
+
+<img src="https://imgur.com/iG3GOFF.jpeg" width="30%">
+<img src="https://imgur.com/4KLb8Yj.jpeg" width="30%">
+<img src="https://imgur.com/8kgkflY.jpeg" width="15%">
+
